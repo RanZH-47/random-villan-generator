@@ -1,6 +1,7 @@
 from random_villan_generator.get_villain import get_villain
 from random_villan_generator.villains import villains
 
+
 def test_get_villain_name():
     """
     GIVEN

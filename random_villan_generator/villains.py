@@ -8,8 +8,7 @@ villains = [
         "author": "Robert C. Martin",
     },
     {
-        "name": "Michael"
-        "De Santa",
+        "name": "Michael" "De Santa",
         "author": "Martin Fowler",
     },
 ]
