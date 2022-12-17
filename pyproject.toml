@@ -4,7 +4,7 @@ version = "0.1.0"
 description = "A random villan name generator. Have fun!"
 authors = ["RoastedCookie47"]
 license = "MIT"
-readme = "README.md"
+readme = "readMe.md"
 packages = [{include = "random_villan_generator"}]
 
 [tool.poetry.dependencies]
